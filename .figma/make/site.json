@@ -1,0 +1,10 @@
+{
+  "description": "This web application provides interactive charts that adapt responsively to various screen sizes, ensuring optimal visualization of data for users.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
